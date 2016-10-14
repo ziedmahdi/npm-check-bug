@@ -1,0 +1,11 @@
+{
+  "name": "npm-check-bug",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "corejs-typeahead": "^0.11.1",
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
